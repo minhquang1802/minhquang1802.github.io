@@ -11,8 +11,7 @@ math:
 ---
 
 ## Some Background Informations
-
-## Noticeable Achievements
+Nothing here yet. :smile:
 
 ## Contact Me
 
