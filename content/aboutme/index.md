@@ -11,7 +11,7 @@ math:
 ---
 
 ## Some Background Informations
-Nothing here yet. :smile:
+Nothing here yet.
 
 ## Contact Me
 

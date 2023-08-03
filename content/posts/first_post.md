@@ -22,7 +22,7 @@ Thú thật mà nói thì tôi không nghĩ là tôi có đầu óc sáng tạo 
 
 Và đúng vậy, bây giờ tôi lại đang ngồi suy nghĩ từng chữ để viết được một bài blog hoàn chỉnh :thinking: các bạn đọc có thể cảm giác được sự cứng nhắc trong các câu văn, không liền mạch, trôi chảy. Nhưng tôi xem đây là một thử thách cho chính bản thân mình và tôi sẽ cố hết sức để hoàn thành được nó. :muscle:
 
-Cả Website và các bài blog tôi tạo ra như là một dự án cá nhân của tôi. Có thể sau này tôi có hứng thú trong con đường viết blog thì đây sẽ là nơi tôi bắt đầu, đồng thời Website này cũng là nơi để tôi nói về một số dự án khác mà tôi đã tham gia (các bạn có thể xem trong phần dự án, nhưng mà chưa có gì đâu :smile:).
+Cả Website và các bài blog tôi tạo ra như là một dự án cá nhân của tôi. Có thể sau này tôi có hứng thú trong con đường viết blog thì đây sẽ là nơi tôi bắt đầu, đồng thời Website này cũng là nơi để tôi nói về một số dự án khác mà tôi đã tham gia (các bạn có thể xem trong phần [dự án](https://minhquang1802.github.io/project/), nhưng mà chưa có gì đâu :smile:).
 
 Sau cùng thì đây chính là một sự bắt đầu mới mẻ cho chính tôi và chắc chắn sai xót là điều không thể tránh khỏi (nhiều khi còn ngựa ngựa viết thêm tiếng Anh :sweat_smile:). Những ý kiến đóng góp cũng là một phần để tôi nhận ra sai xót và hoàn thiện hơn trang blog này do đó đừng ngần ngại mà hãy đóng góp ý kiến. :yellow_heart:
 
