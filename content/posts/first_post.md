@@ -14,6 +14,8 @@ lightgallery: true
 
 ## Chào mừng đến với Blog cá nhân của Wan
 
+<!--more-->
+
 (English below)
 
 Chào, tôi là **WanWan** và bài blog này chính là bài blog đầu tiên mà tôi tạo ra. Vào thời điểm tôi viết bài blog này tôi đang là sinh viên năm 3. Mọi chuyện bắt đầu kể từ khi tôi nhận ra rằng đã đến lúc mình phải tạo sự thay đổi trong cuộc sống sinh viên này, một vài dự án nho nhỏ cho bản thân cũng như trau dồi một chút kinh nghiệm trong các lĩnh vực khác. 
