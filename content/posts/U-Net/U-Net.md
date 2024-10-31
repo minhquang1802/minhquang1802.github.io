@@ -51,7 +51,7 @@ The U-Net architecture is composed of two main components: a **Contracting Path*
 
 >As you may notice, the U-Net architecture quite resembles an **Encoder-Decoder** architecture, which coincidentally makes a U shape, hence the name.
 
-<img src="./U-net.jpg" alt="Segmenting image" width="1000"/>
+<img src="./U-net.jpg" alt="U-Net architecture" width="1000"/>
 
 ### Contracting Path
 The contracting path uses a combination of *convolution* and *pooling layers* to extract and capture features within an image, at the same time, reducing its spatial dimensions.
