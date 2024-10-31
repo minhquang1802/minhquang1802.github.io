@@ -6,7 +6,7 @@ author: "WanWan"
 authorLink: "https://minhquang1802.github.io"
 description: "My very first blog post"
 
-tags: ["Blog", "Vietnamese", "english"]
+tags: ["Blog", "Vietnamese", "English"]
 categories: ["Blog"]
 
 lightgallery: true
