@@ -1,6 +1,6 @@
 ---
 title: "Một sự khởi đầu mới"
-date: 02/08/2023
+date: 2023-08-02T23:24:30+07:00
 draft: false
 author: "WanWan"
 authorLink: "https://minhquang1802.github.io"

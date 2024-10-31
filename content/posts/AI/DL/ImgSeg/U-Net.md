@@ -1,12 +1,12 @@
 ---
-title: "U-Net: Powerful Architecture For Segmentation"
-date: 31/10/2024
+title: "U Net"
+date: 2024-10-31T11:15:37+07:00
 draft: false
 author: "WanWan"
 authorLink: "https://minhquang1802.github.io"
 description: "An introduction of U-Net architecture"
 
-tags: ["Blog", "Vietnamese", "english"]
+tags: ["Blog", "English"]
 categories: ["Blog"]
 
 lightgallery: true
@@ -17,6 +17,7 @@ lightgallery: true
 2. [Network Architecture](#network-architecture)
 
 ## Introduction
+
 
 ## Network Architecture
 
