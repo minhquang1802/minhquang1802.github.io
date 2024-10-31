@@ -1,6 +1,6 @@
 ---
 title: "U-Net: Powerful Architecture For Segmentation"
-date: 
+date: 31/10/2024
 draft: false
 author: "WanWan"
 authorLink: "https://minhquang1802.github.io"
