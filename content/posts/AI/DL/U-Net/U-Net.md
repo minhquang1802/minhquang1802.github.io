@@ -27,7 +27,7 @@ In the past, when the amount of data was not large enough, traditional Machine L
 ## The process of Image Segmentation
 Several deep learning models, such as U-Net, Mask R-CNN, and Fully Convolutional Networks (FCN), have been used for image segmentation. Although these models have different architectures, they generally follow a similar procedure for segmenting images.
 
-![Segmenting Image](/assets/img/U-net-intro.jpg)
+<img src="U-net-intro.jpg" alt="Segmenting image" width="1000"/>
 
 - **Data Preparation**: Having a substantial amount of annotated data is essential for training a deep learning model for image segmentation. This process involves labeling images at the pixel level and assigning a class label to each pixel.
 - **Pre-processing**: This step involves resizing images and augmenting the dataset (see [Data Augmentation](#data-augmentation)) to enhance the model’s robustness. Additionally, it includes normalizing the images to improve learning efficiency.
@@ -51,7 +51,7 @@ The U-Net architecture is composed of two main components: a **Contracting Path*
 
 >As you may notice, the U-Net architecture quite resembles an **Encoder-Decoder** architecture, which coincidentally makes a U shape, hence the name.
 
-![U-Net architecture](/assets/img/U-net.jpg)
+<img src="U-net.jpg" alt="U-Net architectureSegmenting image" width="1000"/>
 
 ### Contracting Path
 The contracting path uses a combination of *convolution* and *pooling layers* to extract and capture features within an image, at the same time, reducing its spatial dimensions.
@@ -77,7 +77,7 @@ At the final layer of the Convolutional Neural Network, a 1×1 convolution is us
 ### Up-Convolutions
 An up-convolution, commonly referred to as deconvolution or transpose convolution, is a technique used to upsample images and restore spatial information.
 
-![Example of up-convolution](/assets/img/up-conv.jpg)
+<img src="up-conv.jpg" alt="Example of up-convolution" width="1000"/>
 
 The most effective method for performing up-convolutions involves expanding and duplicating each element from the input feature map to match the size of the filter. This process upsamples the input, after which the filter is applied to each of these expanded regions.
 
